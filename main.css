@@ -27,18 +27,41 @@
     border-spacing: 5px;
 }
 
+.headermenu
+{
+    color: rgb(235, 150, 235) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px ; 
+    border-width: 2px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, rgb(255, 234, 190), rgb(125, 0, 136)) 1;
+    position: static;
+    background-color: rgb(107, 3, 107) ;
+    text-shadow: 0 0 5px;
+    border-spacing: 5px;
+    width: 196px;
+    height: 20px;
+}
+
 .menu
 {
     color: rgb(235, 150, 235) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px ; 
-    position: relative;
+    position: static;
     background-color: rgb(107, 3, 107) ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
+    width: 196px;
+    height: 500px;
+    border-width: 2px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, rgb(125, 0, 136), rgb(255, 234, 190)) 1;
+    position: static;
+    background-color: rgb(107, 3, 107) ;
 }
 
-/* De rifk7.com, div avec dégradé oui */
+/* - De rifk7.com, div avec dégradé */
 
 .p 
 {
