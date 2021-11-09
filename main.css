@@ -1,3 +1,10 @@
+.body {
+    color:black;
+    background-color:white;
+    background-image:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.zerochan.net%2FMaison.Ikkoku.full.358377.jpg&imgrefurl=https%3A%2F%2Fwww.zerochan.net%2FMaison%2BIkkoku&tbnid=g1oDlcQz9wCy_M&vet=12ahUKEwjD7uqUlov0AhUl5OAKHZEEDAcQMygBegUIARCPAQ..i&docid=NU3A68m-rnOTaM&w=1920&h=1200&itg=1&q=maison%20ikkoku%20wallpaper%20kyoko&client=firefox-b-d&ved=2ahUKEwjD7uqUlov0AhUl5OAKHZEEDAcQMygBegUIARCPAQ);
+    }
+
+
 .header1
 {
     background-color: purple ;
@@ -6,22 +13,17 @@
     border-style: solid;
     border-image: linear-gradient(to bottom, rgb(255, 234, 190), rgb(125, 0, 136)) 1;
     text-shadow: 0 0 5px;
-}
-
-.header1
-{
     color: blanchedalmond ;
     text-align: center ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 
 .dst1 
 {
     color: rgb(235, 150, 255) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px ; 
-    position: relative;
+    position: absolute, le;
     background-color: purple ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
@@ -39,8 +41,9 @@
     background-color: rgb(107, 3, 107) ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
-    width: 196px;
+    width: 8%;
     height: 20px;
+    
 }
 
 .menu
@@ -52,8 +55,9 @@
     background-color: rgb(107, 3, 107) ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
-    width: 196px;
+    width: 8%;
     height: 500px;
+    float: left;
     border-width: 2px;
     border-style: solid;
     border-image: linear-gradient(to bottom, rgb(125, 0, 136), rgb(255, 234, 190)) 1;
@@ -73,4 +77,7 @@
 {
 background-color: rgb(240, 240, 240) ;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+float:right;
+width: 90%;
+height: 500px;
 }
