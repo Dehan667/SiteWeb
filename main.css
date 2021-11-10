@@ -87,14 +87,13 @@ https://wallpaperaccess.com/full/660701.jpg
     font-size: 15px ; 
 }
 
-.dblanche
+.flou
 {
-background-color: rgb(240, 240, 240) ;
+background-color: rgba(240, 240, 240, 0.5);
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 float:right;
 width: 90%;
 height: 500px;
-opacity: 0.8;
 }
 
 .pm
