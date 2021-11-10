@@ -1,17 +1,23 @@
-.body {
-    color:black;
-    background-color:white;
-    background-image:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.zerochan.net%2FMaison.Ikkoku.full.358377.jpg&imgrefurl=https%3A%2F%2Fwww.zerochan.net%2FMaison%2BIkkoku&tbnid=g1oDlcQz9wCy_M&vet=12ahUKEwjD7uqUlov0AhUl5OAKHZEEDAcQMygBegUIARCPAQ..i&docid=NU3A68m-rnOTaM&w=1920&h=1200&itg=1&q=maison%20ikkoku%20wallpaper%20kyoko&client=firefox-b-d&ved=2ahUKEwjD7uqUlov0AhUl5OAKHZEEDAcQMygBegUIARCPAQ);
-    }
+ body {
+     color:black;
+     background-color:white;
+     background-image:url("https://images4.alphacoders.com/116/thumb-1920-1162241.png");
+     background-attachment:fixed;
+     }
+     
+/*     <img class="fit-picture"    src="mi.jpg"  alt="Josu"> 
 
+     background-color: rgb(60, 45, 70);
+https://wallpaperaccess.com/full/660701.jpg
+*/
 
 .header1
 {
-    background-color: purple ;
+    background-color: rgb(70, 70, 70) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-width: 2px;
     border-style: solid;
-    border-image: linear-gradient(to bottom, rgb(255, 234, 190), rgb(125, 0, 136)) 1;
+    border-image: linear-gradient(to bottom, rgb(45, 255, 0), rgb(255, 0, 230)) 1;
     text-shadow: 0 0 5px;
     color: blanchedalmond ;
     text-align: center ;
@@ -20,13 +26,20 @@
 
 .dst1 
 {
-    color: rgb(235, 150, 255) ;
+    color: rgb(45, 255, 0) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px ; 
     position: absolute, le;
-    background-color: purple ;
+    position: static;
+    background-color: rgb(70, 70, 70) ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
+    text-align: center ;
+    margin-bottom:20px;
+    margin-top:10px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, rgb(45, 255, 0), rgb(255, 0, 230)) 1;
+
 }
 
 .headermenu
@@ -36,9 +49,9 @@
     font-size: 15px ; 
     border-width: 2px;
     border-style: solid;
-    border-image: linear-gradient(to bottom, rgb(255, 234, 190), rgb(125, 0, 136)) 1;
+    border-image: linear-gradient(to bottom, rgb(45, 255, 0), rgb(255, 0, 230)) 1;
     position: static;
-    background-color: rgb(107, 3, 107) ;
+    background-color: rgb(70, 70, 70) ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
     width: 8%;
@@ -48,11 +61,11 @@
 
 .menu
 {
-    color: rgb(235, 150, 235) ;
+    color: rgb(45, 255, 0) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px ; 
     position: static;
-    background-color: rgb(107, 3, 107) ;
+    background-color: rgb(70, 70, 70) ;
     text-shadow: 0 0 5px;
     border-spacing: 5px;
     width: 8%;
@@ -60,9 +73,10 @@
     float: left;
     border-width: 2px;
     border-style: solid;
-    border-image: linear-gradient(to bottom, rgb(125, 0, 136), rgb(255, 234, 190)) 1;
+    border-image: linear-gradient(to bottom, rgb(45, 255, 0), rgb(255, 0, 230)) 1;
     position: static;
-    background-color: rgb(107, 3, 107) ;
+    background-color: rgb(70, 70, 70) ;
+    text-align: center ;
 }
 
 /* - De rifk7.com, div avec dégradé */
@@ -80,4 +94,16 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 float:right;
 width: 90%;
 height: 500px;
+opacity: 0.8;
 }
+
+.pm
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px ; 
+    text-align: center ;
+}
+
+/* - Pour Easter Egg sauce
+<audio controls="controls"> <source src="Mad_Desire_-_Stephy_Martini.mp3" type="audio/mp3" /> Votre navigateur n'est pas compatible </audio> </div>
+*/
