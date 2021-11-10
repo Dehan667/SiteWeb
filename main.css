@@ -87,7 +87,7 @@ https://wallpaperaccess.com/full/660701.jpg
     font-size: 15px ; 
 }
 
-.flou
+.paragraphe
 {
 background-color: rgba(240, 240, 240, 0.5);
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -106,3 +106,9 @@ height: 500px;
 /* - Pour Easter Egg sauce
 <audio controls="controls"> <source src="Mad_Desire_-_Stephy_Martini.mp3" type="audio/mp3" /> Votre navigateur n'est pas compatible </audio> </div>
 */
+
+.illustration
+{
+    float:left;
+    text-align: left;
+}
