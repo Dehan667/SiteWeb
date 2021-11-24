@@ -20,6 +20,7 @@
 
     <div class=dst1> <p> <b> Qui est Takumi Fujiwara ? </b> </p> </div>
 
+
     <div class='menu'>  <b>  Menu Principal : </b>
                     <hr>
             <p class="pm">  <a id="link" href="index.html"> Histoire </a> </p>
@@ -28,8 +29,9 @@
             <p class="pm">  <a id="link" href="Mogi.html"> Mogi </a> </p> 
             <p class="pm">  <a id="link" href="Akina.html"> Akina </a> </p>
             <p class="pm">  <a id="link" href="AE86.html"> La "AE86" </a> </p>
-            <p class="pm">  <a id="link" href="information.html"> Informations </a> </p>
+            <p class="pm"> <a id="link" href="information.html"> Informations </a> </p>
     </div>
+
 
     <div class="paragraphe">
 
@@ -40,7 +42,7 @@
          son père (Bunta) l’oblige à se lever tous les jours à 4 h du matin pour aller faire une livraison de tofu en voiture jusqu’au sommet du Mont Akina.
          Bien entendu, c’est à la fois illégal et irresponsable, mais ça a eu le mérite de permettre à Takumi de devenir progressivement un excellent pilote. 
          Comme il était pressé de se débarrasser de cette corvée pour aller se recoucher, il allait de plus en plus vite ce qui a eu pour conséquence
-         de l’amener à maîtriser à la fois cette route sinueuse et sa voiture, une mythique Toyota AE86.
+         de l’amener à maîtriser à la fois cette route sinueuse et sa voiture, une mythique Toyota AE86 connue pour ses qualités en matière de drift.
          </p>
   
     <div class="illustration">
