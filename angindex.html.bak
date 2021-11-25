@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title> INITAL D </title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+<style> 
+    #link { color:rgb(45, 255, 0) } 
+</style>
+
+<body>
+
+    <div class=header1> <h1> INITIAL D : First Stage </h1> </div>
+
+    <div class=dst1> <p> <b> What's "INITAL D" ? </b> </p> </div>
+
+    <div class='menu'>  <b>  Main Menu : </b>
+        <hr>
+           <p class="pm">  <a id="link" href="angindex.html"> Story </a> </p>
+           <p class="pm">  <a id="link" href="angtakumi.html"> Takumi </a> </p>
+           <p class="pm">  <a id="link" href="angbunta.html"> Bunta </a> </p>
+           <p class="pm">  <a id="link" href="angMogi.html"> Mogi </a> </p>                 
+           <p class="pm">  <a id="link" href="angAkina.html"> Akina </a> </p>
+           <p class="pm">  <a id="link" href="angAE86.html"> The "AE86" </a> </p>
+           <p class="pm">  <a id="link" href="anginformation.html"> Informations </a> </p>
+   </div>
+
+    <div class="paragraphe">
+ 
+        <p> 
+        Initial D (頭文字D, Inisharu Dī?) is a seinen manga, by Shūichi Shigeno. It was published between june 1995 and july 2013 in the "Young Magazine" 
+        magazine. It has 48 tomes and had an anime with multiples seasons, oav, and films. There is some video games too. The story is focused 
+        in racing cars where the main caracter uses a not very good one.
+        </p>
+    
+        <div class="illustration">
+            
+            <img class="fit-picture" width="500px" height="300px"   src="https://lh3.googleusercontent.com/proxy/Pp7XUhj92W2GqXdJK12IFVawmzOeruz21kJ1nTsBmxHD2HmAbJK45qqAw-jXzK4_gU2MYDP6IY2vX7jkEr7xLWbejwtXy7rG7mvsO67RpcBzAA"  alt="trueno">
+
+        </div>
+        
+        <p> Something that marked a generation, is the music gender that we can hear in the animated show,
+            its called "Eurobeat" and the Anime take part in the popularisation of it. Here an exemple : <strong> "Leslie Perrish - Killing my love". </strong> 
+        </p>
+
+            <iframe width="600" height="330" src="https://www.youtube.com/embed/YdYwICNPDwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           
+        </div>
+
+</body>
+
+</html>
